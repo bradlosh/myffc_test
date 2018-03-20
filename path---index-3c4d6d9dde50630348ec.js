@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{362:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Faith Family Church",description:"Welcome to Faith Family Church! to know Jesus, to make Jesus known"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-3c4d6d9dde50630348ec.js.map
